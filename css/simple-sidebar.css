@@ -72,26 +72,6 @@ h1 {
     color: black;
     border-bottom: 1px solid #000;
 }
-
-/* Footer */
-#footer {
-    position: fixed;
-    bottom: 0;
-    background-color: rgba(187, 128, 255, 1);
-    width: 100%;
-    height: auto;
-    padding-top: 10px;
-    padding-bottom: 10px; 
-    
-}
-
-#footer-content {
-    color: white;
-    text-align: left;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: 15px;
-}
 /* Toggle Styles */
 
 #wrapper {
