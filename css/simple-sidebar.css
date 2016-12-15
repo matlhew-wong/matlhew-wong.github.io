@@ -115,6 +115,11 @@ h1 {
     position: absolute;
 }
 
+#page-content-wrapper a:link {
+    text-decoration: none;
+    color: white;
+}
+
 #page-content-wrapper a:visited {
     text-decoration: none;
     color: black
