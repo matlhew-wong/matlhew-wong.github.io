@@ -115,6 +115,21 @@ h1 {
     position: absolute;
 }
 
+#page-content-wrapper a:visited {
+    text-decoration: none;
+    color: black
+}
+
+#page-content-wrapper a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+#page-content-wrapper a:active {
+    text-decoration: none;
+    color: grey;
+}
+
 #wrapper.toggled #page-content-wrapper {
     position: static;
     margin-right: -250px;
